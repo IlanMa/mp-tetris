@@ -1,0 +1,14 @@
+{
+  "name": "mp_tetris",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13"
+  },
+   "babel": {
+   	 "presets": ["es2015"]
+  }
+}
